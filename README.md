@@ -103,27 +103,23 @@
 <p align="center">
   <b>Uso de Lenguajes</b>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldoz-X&layout=compact&theme=onedark&hide_border=true&no-bg=true&langs_count=6" alt="Lenguajes más usados de Waldoz-X" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldoz-X&layout=compact&theme=onedark&hide_border=true&no-bg=true&langs_count=6&v=1" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
   <b>Estadísticas Generales</b>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Waldoz-X&show_icons=true&theme=onedark&hide_border=true&no-bg=true&count_private=true" alt="Estadísticas generales de Waldoz-X" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waldoz-X&show_icons=true&theme=onedark&hide_border=true&no-bg=true&count_private=true&v=1" alt="Estadísticas generales" />
 </p>
 
 <p align="center">
   <b>Gráfica de Actividad Diaria (Último Año)</b>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waldoz-X&theme=onedark&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Gráfica de actividad" />
-</p>
-
-<p align="center" style="font-size: 12px; color: #555;">
-  <i>Nota: Si las métricas no cargan de inmediato, es un error temporal del servidor de GitHub; por favor, recarga la página más tarde.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waldoz-X&theme=onedark&hide_border=true&area=true&bg_color=0d1117&v=1" width="100%" alt="Gráfica de actividad" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>Desarrollado con dedicación y estándares profesionales • <b>Waldoz-X</b> • León, México 2024</sub>
+  <sub>Desarrollado con dedicación y estándares profesionales • <b>Waldoz-X</b></sub>
 </div>
