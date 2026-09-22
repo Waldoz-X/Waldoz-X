@@ -11,7 +11,7 @@
 
 <hr />
 
-## 👨‍💻 Sobre Mí
+##  Sobre Mí
 
 Desarrollador de software e integrador de infraestructura tecnológica radicado en León, Guanajuato. Me enfoco en crear soluciones escalables, desde el diseño del backend hasta el despliegue en servidores. Mi experiencia abarca el desarrollo full-stack, la automatización de flujos de trabajo (CI/CD) vía Webhooks y la administración de bases de datos relacionales y en tiempo real.
 
@@ -19,7 +19,7 @@ Actualmente diseño sistemas empresariales como **GestionPedidos** (microservici
 
 <hr />
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,flask" /><br>
@@ -30,7 +30,7 @@ Actualmente diseño sistemas empresariales como **GestionPedidos** (microservici
 
 <hr />
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <table>
   <thead>
@@ -61,7 +61,7 @@ Actualmente diseño sistemas empresariales como **GestionPedidos** (microservici
 
 <hr />
 
-## 📊 Métricas de Actividad
+##  Métricas de Actividad
 
 <p align="center">
   <picture>
